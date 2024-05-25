@@ -28,7 +28,26 @@ var APP_DATA = {
         "pitch": 0.10976403489537567,
         "fov": 1.2409471360433495
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": -2.9480325165458225,
+          "pitch": 0.07462051520569446,
+          "rotation": 4.71238898038469,
+          "target": "3-bathroom"
+        },
+        {
+          "yaw": -2.7533346581356675,
+          "pitch": 0.079723742299457,
+          "rotation": 0,
+          "target": "1-hall"
+        },
+        {
+          "yaw": -3.128070271560704,
+          "pitch": 0.07665783128208403,
+          "rotation": 4.71238898038469,
+          "target": "2-bedroom"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -61,14 +80,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.3875643857962121,
-          "pitch": 0.08760579204845342,
+          "yaw": -0.47196037293809745,
+          "pitch": 0.022970269708650903,
           "rotation": 0,
           "target": "0-living-room"
         },
         {
-          "yaw": 0.6060186900206546,
-          "pitch": -0.003527192180747818,
+          "yaw": 0.5802088529308982,
+          "pitch": -0.0035298816683528855,
           "rotation": 0,
           "target": "2-bedroom"
         },
@@ -158,7 +177,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "Sunrise 1 bedroom",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
